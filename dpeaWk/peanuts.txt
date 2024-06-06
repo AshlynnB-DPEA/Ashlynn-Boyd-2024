@@ -1,0 +1,2 @@
+Hello World
+ls: cannot access '/fake/directory': No such file or directory
